@@ -22,7 +22,9 @@
   "keywords": [],
   "author": "Neil Russell <neilrussell6@gmail.com>",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  },
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
